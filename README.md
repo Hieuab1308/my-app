@@ -1,2 +1,5 @@
-# web-samcenter
-buy and sell technology items
+#my app
+- Thống kê các nguồn chi mà bản thân đã chi ví dụ như: tiền ăn, tiền  nhà,...
+- Thống kê các nguồn thu mà bản thân nhận được thu được ví dụ như: tiền lương,...
+- Tổng kết số tiền đã chi
+- Tổng kết số tiền đã thu
